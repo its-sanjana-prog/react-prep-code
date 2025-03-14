@@ -7,7 +7,9 @@ import Add from "./components/Add";
 // import MainCont from "./components/MainCont";
 // import Footer from "./components/Footer";
 // import WelcomeMsg from "./components/WelcomeMsg";
-import JsxRules from "./components/JsxRules";
+
+// import JsxRules from "./components/JsxRules";
+import Props from "./components/Prop";
 
 const App = () => {
   return  (
@@ -19,8 +21,8 @@ const App = () => {
 
           //  <WelcomeMsg />
 
-           <JsxRules />
-
+           // <JsxRules />
+            <Props />
           }
            </div>
 
